@@ -1,5 +1,4 @@
 <?php
-    // Konfigurasi untuk koneksi database jika diperlukan
     $base_url = "http://localhost/disnaker/";
     $title = "Dashboard - DISNAKER";
 ?>
@@ -663,3 +662,4 @@
     </script>
 </body>
 </html>
+

@@ -1,5 +1,4 @@
 <?php
-    // Konfigurasi dasar untuk koneksi database dan pengaturan situs
     $base_url = "http://localhost/disnaker/";
     $title = "Kontak - DISNAKER";
 ?>
@@ -678,3 +677,4 @@
     </script>
 </body>
 </html>
+

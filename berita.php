@@ -1,5 +1,4 @@
 <?php
-    // Konfigurasi dasar untuk koneksi database dan pengaturan lainnya
     $base_url = "http://localhost/disnaker/";
     $title = "Berita - DISNAKER";
 ?>
@@ -546,4 +545,5 @@
         cards.forEach(card => observer.observe(card));
     </script>
 </body>
+
 </html>
